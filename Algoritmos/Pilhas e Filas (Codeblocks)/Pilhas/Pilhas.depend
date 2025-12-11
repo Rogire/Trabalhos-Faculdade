@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1716252623 source:c:\users\igort\onedrive\documentos\codeblocks\pilhas\src\pilhaencad.cpp
+	"PilhaEncad.h"
+	<cstddef>
+	<iostream>
+
+1716252468 c:\users\igort\onedrive\documentos\codeblocks\pilhas\include\pilhaencad.h
+	"No.h"
+
+1716332655 source:c:\users\igort\onedrive\documentos\codeblocks\pilhas\main.cpp
+	<iostream>
+	"PilhaCont.h"
+	"PilhaEncad.h"
+
+1716252279 c:\users\igort\onedrive\documentos\codeblocks\pilhas\include\pilhacont.h
+
+1716332790 source:c:\users\igort\onedrive\documentos\codeblocks\pilhas\src\pilhacont.cpp
+	"PilhaCont.h"
+	<iostream>
+
+1716252306 c:\users\igort\onedrive\documentos\codeblocks\pilhas\include\no.h
+	<cstddef>
+

@@ -1,0 +1,10 @@
+Algoritmo,Caso,Media_Tempo(s)
+KMP,Padrão 0, 0.00003845
+KMP,Padrão 1, 0.01048001
+KMP,Padrão 2, 0.02316239
+Força Bruta,Padrão 0, 0.00003565
+Força Bruta,Padrão 1, 0.01023215
+Força Bruta,Padrão 2, 0.02362808
+BMH,Padrão 0, 0.00000012
+BMH,Padrão 1, 0.00000009
+BMH,Padrão 2, 0.00000009

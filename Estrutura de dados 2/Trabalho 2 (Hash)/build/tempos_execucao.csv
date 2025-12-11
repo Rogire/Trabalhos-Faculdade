@@ -1,0 +1,7 @@
+Algoritmo,Caso,Tempo(s)
+KMP,Padrão no início,0.00155070
+KMP,Padrão no final,0.02963780
+KMP,Padrão inexistente,0.04838430
+Força Bruta,Padrão no início,0.00189430
+Força Bruta,Padrão no final,0.03501630
+Força Bruta,Padrão inexistente,0.05161420

@@ -1,0 +1,18 @@
+ARRUMAR O ERRO DA VERSÃO DO COMPILADOR DO JDK 
+
+Colar isso aqui no final do arquivo pom.xml
+Project Files -> pom.xml
+
+</dependencies>
+<build>
+    <plugins>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>1.8</source>
+                <target>1.8</target>
+            </configuration>
+        </plugin>
+    </plugins>
+</build>

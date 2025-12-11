@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1711316864 source:/home/igor/Documentos/Codeblocks/Listas/main.cpp
+	<iostream>
+	"ListCont.h"
+	"ListEnc.h"
+
+1711154068 /home/igor/Documentos/Codeblocks/Listas/include/ListCont.h
+
+1711156130 source:/home/igor/Documentos/Codeblocks/Listas/src/ListCont.cpp
+	"ListCont.h"
+	<iostream>
+
+1711315551 source:/home/igor/Documentos/Codeblocks/Listas/src/ListEnc.cpp
+	"ListEnc.h"
+	<cstddef>
+	<iostream>
+
+1711314784 /home/igor/Documentos/Codeblocks/Listas/include/ListEnc.h
+	"No.h"
+
+1711157592 /home/igor/Documentos/Codeblocks/Listas/include/No.h
+
+1711244815 source:/home/igor/Documentos/Codeblocks/Listas/src/No.cpp
+	"No.h"
+	<cstddef>
+
